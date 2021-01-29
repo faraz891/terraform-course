@@ -1,5 +1,5 @@
 variable "AKIASRSCO5YXA6RP6TNR" { }
-variable "vtTGUQP2qK8VcHN6AFYpEzisQ4ogrWN168QcNMaF" { }
+#variable "vtTGUQP2qK8VcHN6AFYpEzisQ4ogrWN168QcNMaF" { }
 variable "AWS_REGION" {
   default = "eu-west-1"
 }
